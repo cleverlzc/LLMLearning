@@ -19,7 +19,7 @@
 10. [生态集成：Mooncake 如何融入 vLLM、SGLang 和 TensorRT-LLM](./10-ecosystem.md) — *生态实战篇*
 11. [Mooncake 部署踩坑实录：那些文档没告诉你的事](./11-deployment-pitfalls.md) — *踩坑避坑篇*
 12. [分层存储：KV Cache 的"热货架与冷库"经济学](./12-tiered-storage.md) — *核心技术详解篇*
-13. [RDMA/RoCE 深潜：从驱动、协议到硬件的完整技术图谱](./rdma-roce-deep-dive.md) — *技术专题篇*
+13. [RDMA/RoCE 深潜：从驱动、协议到硬件的完整技术图谱](./13-rdma-roce-deep-dive.md) — *技术专题篇*
 14. [硬件交互：KV Cache 如何在 GPU、DRAM 与 SSD 之间"搬家"](./14-hardware-interaction.md) — *核心技术详解篇*
 15. [性能调优：给数据流水线"疏通河道"的实战指南](./15-performance-tuning.md) — *实战调优篇*
 16. [KV Cache 全景：从 Attention 公式到 SSD 磁盘上的字节，一条数据的六次变身](./16-kv-cache-anatomy.md) — *核心概念深潜篇*
